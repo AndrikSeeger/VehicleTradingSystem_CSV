@@ -76,15 +76,35 @@ It's available <a href="Documentation" target="_blank">here</a> as linked HTML-F
 
 ### Activity Diagram
 
-The following is the process of the search of vehicles as an activity diagram.
+The following image shows the **vehicle search process** as an **activity diagram**.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/AndrikSeeger/VehicleTradingSystem_CSV/master/Ressources/Activity_Diagram.png"/>
 </p>
 
 ### Sequence Diagram
+
+The following image shows the **vehicle search process** as a **sequence diagram**.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/AndrikSeeger/VehicleTradingSystem_CSV/master/Ressources/Sequence_Diagram.png"/>
+</p>
+
 ### Use Cases
+
+The following image shows a simplified version of the **most important use cases** as a **use case diagram*.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/AndrikSeeger/VehicleTradingSystem_CSV/master/Ressources/UseCases.png"/>
+</p>
+
 ### UML
+
+The following image shows basic program structure with the most important classes and interfaces.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/AndrikSeeger/VehicleTradingSystem_CSV/master/Ressources/UML.png"/>
+</p>
 
 ## FAQ
 * **Is the maximum amount of accounts/vehicles limited?**
