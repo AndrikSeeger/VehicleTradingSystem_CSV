@@ -74,6 +74,14 @@ There are unit tests available in the build. The lines of code **test coverage i
 The full documentation was automatically created from the in-code documentation.
 It's available <a href="Documentation" target="_blank">here</a> as linked HTML-Files, so it can be used like a website.
 
+### Activity Diagram
+<p align="center">
+<img src="https://raw.githubusercontent.com/AndrikSeeger/VehicleTradingSystem_CSV/master/Ressources/Activity_Diagram.pdf"/>
+</p>
+
+### Sequence Diagram
+### Use Cases
+### UML
 
 ## FAQ
 * **Is the maximum amount of accounts/vehicles limited?**
