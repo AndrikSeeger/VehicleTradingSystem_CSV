@@ -76,7 +76,7 @@ It's available <a href="Documentation" target="_blank">here</a> as linked HTML-F
 
 ### Activity Diagram
 
-The following image shows the ** _vehicle search process_ ** as an ** _activity diagram_ **.
+The following image shows the **_vehicle search process_** as an **_activity diagram_**.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/AndrikSeeger/VehicleTradingSystem_CSV/master/Ressources/Activity_Diagram.png"/>
@@ -84,7 +84,7 @@ The following image shows the ** _vehicle search process_ ** as an ** _activity 
 
 ### Sequence Diagram
 
-The following image shows the ** _vehicle search process_ ** as a ** _sequence diagram_ **.
+The following image shows the **_vehicle search process_** as a **_sequence diagram_**.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/AndrikSeeger/VehicleTradingSystem_CSV/master/Ressources/Sequence_Diagram.png"/>
@@ -92,7 +92,7 @@ The following image shows the ** _vehicle search process_ ** as a ** _sequence d
 
 ### Use Cases
 
-The following image shows a simplified version of the ** _most important use cases_ ** as a ** _use case diagram_ **.
+The following image shows a simplified version of the **_most important use cases_** as a **_use case diagram_**.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/AndrikSeeger/VehicleTradingSystem_CSV/master/Ressources/UseCases.png"/>
