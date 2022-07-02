@@ -1,5 +1,5 @@
 # Vehicle Trading System (CSV)
-This PoC-like project is the development of a new platform for POSIX-like systems to buy, sell and trade vehicles using ads solely written in Java using CSV-Files as a backup system with high safety standards.
+This PoC-like project is the development of a new platform for POSIX-like systems to buy, sell and trade vehicles using ads solely written in Java using CSV-Files as a backup system with high security standards.
 The functionality is very similar to popular car trading sites like cars.com or mobile.de. Since this is development focuses on the backend functionality there is no graphical user interface. 
 The interface uses the console on POSIX-like operating systems for user input and output.
 
