@@ -76,7 +76,7 @@ It's available <a href="Documentation" target="_blank">here</a> as linked HTML-F
 
 ### Activity Diagram
 <p align="center">
-<img src="https://raw.githubusercontent.com/AndrikSeeger/VehicleTradingSystem_CSV/master/Ressources/Activity_Diagram.pdf"/>
+<img src="https://raw.githubusercontent.com/AndrikSeeger/VehicleTradingSystem_CSV/master/Ressources/Activity_Diagram.png"/>
 </p>
 
 ### Sequence Diagram
