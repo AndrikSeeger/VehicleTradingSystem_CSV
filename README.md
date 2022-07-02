@@ -30,7 +30,10 @@ To close the current input and to return to the last opened menu just press ente
 The search of vehicles ("Fahrzeugsuche") according to given filtering and sorting parameters is possible without being logged in. For other actions like advertising a new car you need to create a user account and login to the system. There are two types of accounts: personal and professional. Every kind of input like the e-mail-address are checked for the correct syntax described in each input request.
 
 ### Vehicle search
+You can search for vehicles by filtering the technical parameters of each vehicle. The resulting vehicles can be sorted in different orders.
+
 #### Sorting
+
 #### Filtering
 
 ## Documentation
@@ -38,12 +41,12 @@ The search of vehicles ("Fahrzeugsuche") according to given filtering and sortin
 ## FAQ
 * **Is the maximum amount of accounts/vehicles limited?**
  
-    No, the number of accounts and vehicles is not artifically limited in code but the memory capacity on your system is limited, hence the system gets slower if you surpass your available physical memory capacity.
+    No, the number of accounts and vehicles is not artificially limited in code but the memory capacity on your system is limited, hence the system gets slower if you surpass your available physical memory capacity.
     
 * **Can I use the code for my project?**
  
-    Yes, you're free to use the project code for closed projects. If you plan on puplicating your project please reference my development.
+    Yes, you're free to use the project code for closed projects. If you plan on publishing your project please reference my development.
     
 * **Are additional features available in the future?**
  
-    There are some experimental features like remote access which currently aren't puplished. A new version of the Postgres-Version featuring those functionalities is planned. Please contact me for further information.
+    There are some experimental features like remote access which currently aren't published. A new version of the Postgres-Version featuring those functionalities is planned. Please contact me for further information.
