@@ -69,6 +69,10 @@ You can filter trucks by:
 * Hydraulic system build in
 
 ## Documentation
+The full documentation was automatically created from the in-code documentation.
+It's available here as linked HTML-Files ("local website").
+//link
+<a href="Documentation" target="_blank">Introduction</a>
 
 ## FAQ
 * **Is the maximum amount of accounts/vehicles limited?**
