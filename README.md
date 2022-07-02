@@ -33,8 +33,40 @@ The search of vehicles ("Fahrzeugsuche") according to given filtering and sortin
 You can search for vehicles by filtering the technical parameters of each vehicle. The resulting vehicles can be sorted in different orders.
 
 #### Sorting
+You can sort by:
+* Price increasing
+* Price decreasing
+* Mileage increasing
+* Mileage decreasing
+* First registration of the vehicle increasing
+* First registration of the vehicle decreasing
+* Publishing date of the ad increasing
+* Publishing date of the ad decreasing
 
 #### Filtering
+First you have to choose if you're searching for cars or trucks.
+
+You can filter cars by:
+* Brand
+* Model
+* Price
+* Power
+* Mileage
+* Weight
+* First registration of the vehicle
+* Type of car
+* Sports package build in
+
+You can filter trucks by:
+* Brand
+* Model
+* Power
+* Mileage
+* Weight
+* First registration of the vehicle
+* Maximum load
+* Towing capacity
+* Hydraulic system build in
 
 ## Documentation
 
