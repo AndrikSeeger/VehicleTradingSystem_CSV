@@ -117,4 +117,4 @@ The following image shows basic program structure with the most important classe
     
 * **Are additional features available in the future?**
  
-    There are some experimental features like remote access which currently aren't published. A new version of the Postgres-Version featuring those functionalities is planned. Please contact me for further information.
+    There are some experimental features like remote access which currently aren't published. A new version of the <a href="https://github.com/AndrikSeeger/VehicleTradingSystem_POSTGRES" target="_blank">Postgres-Version</a> featuring those functionalities is planned. Please contact me for further information.
