@@ -7,12 +7,12 @@ Currently there is a second, further developed version available using the Postg
 You can find the repository <a href="https://github.com/AndrikSeeger/VehicleTradingSystem_POSTGRES" target="_blank">here</a>.
 
 ## Language
-Since the usage of the project was initially planned exclusively for the German car market the documentation is also in German.
+Since the usage of the project was initially planned as exclusive for the German car market the documentation is also in German.
 For further information and explanations in English please contact me.
 
 ## Startup
 On POSIX-like operating systems (macOS & most linux distributions) you can simply run the Execute.sh-Script in your preferred console.
-There currently is no Windows-Version with CSV available since the Postgres-Version is developed for Windows.
+There currently is no Windows-version with CSV-storage available since the <a href="https://github.com/AndrikSeeger/VehicleTradingSystem_POSTGRES" target="_blank">Postgres-version</a> is developed for Windows.
 
 The initial menu looks like this:
 <p align="center">
@@ -117,4 +117,4 @@ The following image shows basic program structure with the most important classe
     
 * **Are additional features available in the future?**
  
-    There are some experimental features like remote access which currently aren't published. A new version of the <a href="https://github.com/AndrikSeeger/VehicleTradingSystem_POSTGRES" target="_blank">Postgres-Version</a> featuring those functionalities is planned. Please contact me for further information.
+    There are some experimental features like remote access which currently aren't published. A new version of the <a href="https://github.com/AndrikSeeger/VehicleTradingSystem_POSTGRES" target="_blank">Postgres-version</a> featuring those functionalities is planned. Please contact me for further information.
