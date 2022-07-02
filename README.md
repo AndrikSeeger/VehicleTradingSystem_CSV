@@ -4,8 +4,7 @@ The functionality is very similar to popular car trading sites like cars.com or 
 The interface uses the console on POSIX-like operating systems for user input and output.
 
 Currently there is a second, further developed version available using the Postgres-Database instead of CSV for storage.
-You can find the repository here.
-//Link
+You can find the repository <a href="https://github.com/AndrikSeeger/VehicleTradingSystem_POSTGRES" target="_blank">here</a>.
 
 ## Language
 Since the usage of the project was initially planned exclusively for the German car market the documentation is also in German.
