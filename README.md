@@ -21,7 +21,7 @@ The initial menu looks like this:
 </p>
 
 ## Usage
-The usage of the program is pretty straight forward using numbers as input for the menu. The program has complete error handling for unexpected inputs with detailed messages and explanations. Please consider that the semicolon is not permitted in the input of names since it's the column-seperator for the CSV-files. 
+The usage of the program is pretty straight forward using numbers as input for the menu. The program has complete error handling for unexpected inputs with detailed messages and explanations. Please consider that semicolons are not permitted in the input of names since it's the column-seperator for the CSV-files. 
 
 ### Close input
 To close the current input and to return to the last opened menu just press enter two times at any given point in the program.
