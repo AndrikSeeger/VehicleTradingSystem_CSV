@@ -92,7 +92,7 @@ The following image shows the **vehicle search process** as a **sequence diagram
 
 ### Use Cases
 
-The following image shows a simplified version of the **most important use cases** as a **use case diagram*.
+The following image shows a simplified version of the **most important use cases** as a **use case diagram**.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/AndrikSeeger/VehicleTradingSystem_CSV/master/Ressources/UseCases.png"/>
