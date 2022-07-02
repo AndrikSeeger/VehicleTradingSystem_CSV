@@ -75,6 +75,9 @@ The full documentation was automatically created from the in-code documentation.
 It's available <a href="Documentation" target="_blank">here</a> as linked HTML-Files, so it can be used like a website.
 
 ### Activity Diagram
+
+The following is the process of the search of vehicles as an activity diagram.
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/AndrikSeeger/VehicleTradingSystem_CSV/master/Ressources/Activity_Diagram.png"/>
 </p>
