@@ -16,7 +16,9 @@ On POSIX-like operating systems (macOS & most linux distributions) you can simpl
 There currently is no Windows-Version with CSV available since the Postgres-Version is developed for Windows.
 
 The initial menu looks like this:
-//Menu Image
+<p align="center">
+<img src="https://raw.githubusercontent.com/AndrikSeeger/VehicleTradingSystem_CSV/master/Ressources/Startup.png"/>
+</p>
 
 ## Usage
 The usage of the program is pretty straight forward. The program has complete error handling for unexpected inputs with detailed messages and explanations. Please consider that the semicolon is not permitted in the input of names since it's the column-seperator for the CSV-files. 
