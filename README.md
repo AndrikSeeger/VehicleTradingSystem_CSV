@@ -70,7 +70,7 @@ You can filter trucks by:
 
 ## Documentation
 The full documentation was automatically created from the in-code documentation.
-It's available <a href="Documentation" target="_blank">here</a> as linked HTML-Files ("local website").
+It's available <a href="Documentation" target="_blank">here</a> as linked HTML-Files, so it can be used like a website.
 
 
 ## FAQ
