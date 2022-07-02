@@ -70,9 +70,8 @@ You can filter trucks by:
 
 ## Documentation
 The full documentation was automatically created from the in-code documentation.
-It's available here as linked HTML-Files ("local website").
-//link
-<a href="Documentation" target="_blank">Introduction</a>
+It's available <a href="Documentation" target="_blank">here</a> as linked HTML-Files ("local website").
+
 
 ## FAQ
 * **Is the maximum amount of accounts/vehicles limited?**
